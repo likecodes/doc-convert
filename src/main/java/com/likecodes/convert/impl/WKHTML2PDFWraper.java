@@ -85,7 +85,7 @@ public class WKHTML2PDFWraper implements PDFConvertApi {
         List<Param> plist = new ArrayList<Param>();
         plist.add(pageParam);
         WKHTML2PDFWraper wkhtml = new WKHTML2PDFWraper();
-        wkhtml.saveAs("E:/test345.pdf", wkhtml.getPDFByURL("http://www.cnblogs.com/huxiao-tee/p/4657851.html", glist, plist));
+        wkhtml.saveAs("E:/test345.pdf", wkhtml.getPDFByURL("https://github.com/likecodes/", glist, plist));
 
     }
 }
