@@ -1,7 +1,6 @@
 # doc-convert
-So far,the project is only a java wrapper for wkhtmltopdf 
-but,it will support more libs,like openoffice lib.
+but,it will support more libs,like openoffice libã€‚
 Befoe it run,you must install wkhtmltopdf 
 =======================================================
-°²×°
-  ´ËÏîÄ¿£¬±ØÐë°²×°wkhtmltopdf
+å®‰è£…
+  æ­¤é¡¹ç›®ï¼Œå¿…é¡»å®‰è£…wkhtmltopdf
